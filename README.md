@@ -1,7 +1,6 @@
 # 3rdGradeProject
-Проект между телеграм-ботом с плейлистами и не телеграм-ботом с плейлистами
 
-# Telegram Music Player Bot - ПРЕДВАРИТЕЛЬНАЯ идея Калхиева Соса
+# Telegram Music Player Bot -
 
 ## 1. Идея проекта
 
