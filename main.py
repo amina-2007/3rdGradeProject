@@ -1,14 +1,19 @@
 import asyncio
+import logging
+
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message
+from aiogram.filters import CommandStart
 
-token = "5849786205:AAFaagoy-H-oa3LMMNnObneFyA4lGB7GE74"
-bot = Bot(token)
+from config import TOKEN
 
+logging.basicConfig(level=logging.INFO) # для фиксирования ошибок
+
+bot = Bot(TOKEN) # хранение токена в отдельном файле
 dp = Dispatcher()
 
-@dp.message
-async def Start (message:Message):
+@dp.message(CommandStart()) # ну это команда, поэтому скобки (а так команда /start)
+async def start (message:Message):
     await message.answer ("Hello")
 
 async def main():
