@@ -1,4 +1,4 @@
-# config.py пока не игнорим, чтобы легче было менять
+config.py
 .venv/
 __pycache__/
 .idea/
