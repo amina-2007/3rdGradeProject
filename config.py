@@ -1,1 +1,0 @@
-TOKEN = "8945134637:AAGIvw1iyXxlTogBnSlIqn-0Pd1HMursoLw" # Марина, а твой 5849786205:AAFaagoy-H-oa3LMMNnObneFyA4lGB7GE74
