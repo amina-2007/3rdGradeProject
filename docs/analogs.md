@@ -14,10 +14,10 @@
 
 | Проект | Что делает | Запускали |
 |---|---|---|
-| [SinaSn/lyrabot](https://github.com/SinaSn/lyrabot) | Принимает музыку файлом или пересылкой, постит в канал | |
-| [roshanshibu/Tipu-Music-Bot](https://github.com/roshanshibu/Tipu-Music-Bot) | Сохраняет присланные аудио, метаданные в SQLite | |
-| [vi2k6/Music-Player](https://github.com/vi2k6/Music-Player) | Плеер для голосового чата: плейлист, `/current`, кнопки | |
-| [selfie-bd/player](https://github.com/selfie-bd/player) | Играет файлы и музыку из канала | |
-| [AsmSafone/MusicPlayer](https://github.com/AsmSafone/MusicPlayer) | Плеер для голосовых чатов, своя очередь на чат | |
+| [SinaSn/lyrabot](https://github.com/SinaSn/lyrabot) | Принимает музыку файлом или пересылкой, постит в канал | [ ] |
+| [roshanshibu/Tipu-Music-Bot](https://github.com/roshanshibu/Tipu-Music-Bot) | Сохраняет присланные аудио, метаданные в SQLite | [ ] |
+| [vi2k6/Music-Player](https://github.com/vi2k6/Music-Player) | Плеер для голосового чата: плейлист, `/current`, кнопки | [ ] |
+| [selfie-bd/player](https://github.com/selfie-bd/player) | Играет файлы и музыку из канала | [ ] |
+| [AsmSafone/MusicPlayer](https://github.com/AsmSafone/MusicPlayer) | Плеер для голосовых чатов, своя очередь на чат | [ ] |
 
 ## Заметки
