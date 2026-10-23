@@ -1,6 +1,6 @@
 # 3rdGradeProject
 
-# Telegram Music Player Bot -
+# Telegram Music Player Bot
 
 ## 1. Идея проекта
 
