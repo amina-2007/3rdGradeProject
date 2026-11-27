@@ -1,4 +1,11 @@
 config.py
+
 .venv/
 __pycache__/
+*.pyc
+
+tracks.json
+messages.json
+
 .idea/
+.vscode/
